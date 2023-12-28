@@ -10,18 +10,20 @@ DayBase::DayBase(int day)
         g_days.resize(day);
     g_days[day - 1] = this;
 
+    const char* USER = "pat";
+
     stringstream ss;
-    ss << "input\\Day" << day << "_Input.txt";
+    ss << "input\\" << USER << "\\Day" << day << "_Input.txt";
     input.open(ss.str());
 
     ss.str("");
 
-    ss << "input\\Day" << day << "_TestInput.txt";
+    ss << "input\\test\\Day" << day << "_Input.txt";
     testInput.open(ss.str());
 
     ss.str("");
 
-    ss << "input\\Day" << day << "_TestInput2.txt";
+    ss << "input\\test\\Day" << day << "_Input2.txt";
     testInputTwo.open(ss.str());
 }
 

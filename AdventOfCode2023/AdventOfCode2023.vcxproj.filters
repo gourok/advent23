@@ -30,79 +30,7 @@
     <ClCompile Include="solutions\DayTemplate.cpp">
       <Filter>Source Files\Solutions</Filter>
     </ClCompile>
-    <ClCompile Include="solutions\Day10.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
     <ClCompile Include="solutions\Day1.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day2.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day3.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day4.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day5.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day6.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day7.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day8.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day9.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day17.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day11.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day12.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day13.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day14.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day15.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day16.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day18.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day19.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day20.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day21.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day22.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day23.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day24.cpp">
-      <Filter>Source Files\Solutions</Filter>
-    </ClCompile>
-    <ClCompile Include="solutions\Day25.cpp">
       <Filter>Source Files\Solutions</Filter>
     </ClCompile>
   </ItemGroup>

@@ -137,30 +137,6 @@
     <ClCompile Include="DayBase.cpp" />
     <ClCompile Include="Helpers.cpp" />
     <ClCompile Include="solutions\Day1.cpp" />
-    <ClCompile Include="solutions\Day10.cpp" />
-    <ClCompile Include="solutions\Day11.cpp" />
-    <ClCompile Include="solutions\Day12.cpp" />
-    <ClCompile Include="solutions\Day13.cpp" />
-    <ClCompile Include="solutions\Day14.cpp" />
-    <ClCompile Include="solutions\Day15.cpp" />
-    <ClCompile Include="solutions\Day16.cpp" />
-    <ClCompile Include="solutions\Day17.cpp" />
-    <ClCompile Include="solutions\Day18.cpp" />
-    <ClCompile Include="solutions\Day19.cpp" />
-    <ClCompile Include="solutions\Day2.cpp" />
-    <ClCompile Include="solutions\Day20.cpp" />
-    <ClCompile Include="solutions\Day21.cpp" />
-    <ClCompile Include="solutions\Day22.cpp" />
-    <ClCompile Include="solutions\Day23.cpp" />
-    <ClCompile Include="solutions\Day24.cpp" />
-    <ClCompile Include="solutions\Day25.cpp" />
-    <ClCompile Include="solutions\Day3.cpp" />
-    <ClCompile Include="solutions\Day4.cpp" />
-    <ClCompile Include="solutions\Day5.cpp" />
-    <ClCompile Include="solutions\Day6.cpp" />
-    <ClCompile Include="solutions\Day7.cpp" />
-    <ClCompile Include="solutions\Day8.cpp" />
-    <ClCompile Include="solutions\Day9.cpp" />
     <ClCompile Include="solutions\DayTemplate.cpp" />
   </ItemGroup>
   <ItemGroup>
