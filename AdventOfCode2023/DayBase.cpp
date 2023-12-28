@@ -1,5 +1,7 @@
 #include "DayBase.h"
 
+#include <chrono>
+
 DayBase::DayBase(int day)
     : day(day)
 {
@@ -10,20 +12,20 @@ DayBase::DayBase(int day)
         g_days.resize(day);
     g_days[day - 1] = this;
 
-    const char* USER = "pat";
+    const char* USER = "harry";
 
     stringstream ss;
-    ss << "input\\" << USER << "\\Day" << day << "_Input.txt";
+    ss << "input/" << USER << "/Day" << day << "_Input.txt";
     input.open(ss.str());
 
     ss.str("");
 
-    ss << "input\\test\\Day" << day << "_Input.txt";
+    ss << "input/test/Day" << day << "_Input.txt";
     testInput.open(ss.str());
 
     ss.str("");
 
-    ss << "input\\test\\Day" << day << "_Input2.txt";
+    ss << "input/test/Day" << day << "_Input2.txt";
     testInputTwo.open(ss.str());
 }
 
