@@ -18,10 +18,37 @@ public:
 protected:
 	virtual void questionOne(istream& input, ostream& output)
 	{
+		string line;
+		int total = 0;
+
+		while (getline(input, line))
+		{
+			int first = -1;
+			int last = -1;
+			for (int i = 0; i < line.length(); ++i)
+			{
+				int value = line[i] - '0';
+
+				if (value > 0 && value < 10)
+				{
+					if (first == -1)
+					{
+						first = value;
+					}
+
+					last = value;
+				}
+			}
+			
+			total += first * 10 + last;
+		}
+
+		output << total;
 	}
 
 	virtual void questionTwo(istream& input, ostream& output)
 	{
+
 	}
 };
 
