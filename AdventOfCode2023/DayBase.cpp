@@ -12,7 +12,7 @@ DayBase::DayBase(int day)
         g_days.resize(day);
     g_days[day - 1] = this;
 
-    const char* USER = "harry";
+    const char* USER = "pat";
 
     stringstream ss;
     ss << "input/" << USER << "/Day" << day << "_Input.txt";

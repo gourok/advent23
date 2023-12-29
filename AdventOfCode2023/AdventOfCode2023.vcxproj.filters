@@ -45,6 +45,9 @@
     <ClCompile Include="solutions\Day6.cpp">
       <Filter>Source Files\Solutions</Filter>
     </ClCompile>
+    <ClCompile Include="solutions\Day7.cpp">
+      <Filter>Source Files\Solutions</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Helpers.h">
