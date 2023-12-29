@@ -137,6 +137,10 @@
     <ClCompile Include="DayBase.cpp" />
     <ClCompile Include="Helpers.cpp" />
     <ClCompile Include="solutions\Day1.cpp" />
+    <ClCompile Include="solutions\Day2.cpp" />
+    <ClCompile Include="solutions\Day3.cpp" />
+    <ClCompile Include="solutions\Day4.cpp" />
+    <ClCompile Include="solutions\Day6.cpp" />
     <ClCompile Include="solutions\DayTemplate.cpp" />
   </ItemGroup>
   <ItemGroup>

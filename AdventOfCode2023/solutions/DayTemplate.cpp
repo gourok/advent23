@@ -4,8 +4,8 @@
 /**
 * DayTemplate
 *
-* This is a the solution for Day Template of Advent of Code 2022.
-* https://adventofcode.com/2022/day/0
+* This is a the solution for Day Template of Advent of Code 2023.
+* https://adventofcode.com/2023/day/0
 *
 */
 class DayTemplate : public DayBase
